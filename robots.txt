@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nxtpwr.github.io/goat-esports-portfolio/sitemap.xml
